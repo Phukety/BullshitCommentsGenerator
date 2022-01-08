@@ -1,0 +1,5 @@
+config:
+  dict-path: /opt/app/config/dict.txt
+  learn-path: learn.txt
+logback:
+  path: /opt/applog
